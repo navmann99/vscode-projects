@@ -1,0 +1,5 @@
+venv_environment_setup/
+.venv/
+.DS_Store
+*.pyc
+test.py
